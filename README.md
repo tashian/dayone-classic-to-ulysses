@@ -5,3 +5,7 @@ This is a simple Python script that converts Day One Classic files (.doentry fil
 It also names the new markdown files based on the date of the original Day One entry.
 
 Once you bring your Day One entires into Ulysses, you can sort them by creation time there, as needed.
+
+# Usage
+
+Put your Day One entries (available via Show Package Contents of your Day One Journal file) into the `entries` folder. Run the script, and your Markdown files will show up in the `md` folder. You can now bring these into Ulysses.
